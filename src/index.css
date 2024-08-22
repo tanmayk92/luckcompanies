@@ -1,0 +1,37 @@
+:root {
+  --e-global-color-primary: #452ce0;
+  --e-global-color-secondary: #d83d96;
+  --e-global-color-text: #28272c;
+  --e-global-color-accent: #00d8b8;
+  --e-global-color-59cb3ad: #7624a9;
+  --e-global-color-2e63ec5: #2d1d86;
+  --e-global-color-0f399c1: #9324dd;
+  --e-global-color-fadd906: #fff;
+  --e-global-color-f504d81: rgba(2, 1, 1, 0);
+  --e-global-color-31368ed: #f0eefd;
+  --e-global-color-345ddb3: #fff3ed;
+  --e-global-color-f36709e: #42414e;
+  --e-global-color-c369800: #f7f7fd;
+  --e-global-color-9e998f1: #2d1d86;
+  --e-global-color-a3fbfa1: #04bba3;
+  --e-global-typography-primary-font-family: 'Poppins';
+  --e-global-typography-primary-font-size: 18px;
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: 'Poppins';
+  --e-global-typography-secondary-font-weight: 500;
+  --e-global-typography-text-font-family: 'Poppins';
+  --e-global-typography-text-font-size: 16px;
+  --e-global-typography-text-font-weight: 600;
+  --e-global-typography-text-line-height: 27px;
+  --e-global-typography-accent-font-family: 'Poppins';
+  --e-global-typography-accent-font-size: 12px;
+  --e-global-typography-accent-font-weight: 400;
+}
+
+.text-heading {
+  color: var(--e-global-color-primary);
+}
+
+.header-nav {
+  background-color: #aeafb1;
+}
